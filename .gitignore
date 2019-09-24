@@ -3,3 +3,5 @@
 geckodriver.log
 scripts
 venv
+*.bpm
+*.png
