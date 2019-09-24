@@ -1,0 +1,5 @@
+.idea
+/IEDriverServer.exe
+geckodriver.log
+scripts
+venv
